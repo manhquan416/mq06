@@ -1,1 +1,10 @@
-
+mkdir git-lab
+cd git-lab
+git --version
+git config --global user.name "Your name"
+git config --global user.email "Your email"
+git config --list
+git <command> --help
+git add --help
+cd git-lab
+ls -a (Mac/Linux/WSL)
